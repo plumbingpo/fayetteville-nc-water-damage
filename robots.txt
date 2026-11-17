@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fayettevillerestorationco.com/sitemap.xml
